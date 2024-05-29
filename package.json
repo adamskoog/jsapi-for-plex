@@ -1,0 +1,27 @@
+{
+  "name": "@adamskoog/jsapi-for-plex",
+  "version": "1.0.0",
+  "description": "API layer for Onyx Audiobook applications.",
+  "engines": { "node": ">=20.13.0" },
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamskoog/jsapi-for-plex.git"
+  },
+  "author": "Adam Skoog",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/adamskoog/jsapi-for-plex/issues"
+  },
+  "homepage": "https://github.com/adamskoog/jsapi-for-plex#readme",
+  "dependencies": {
+    "qs": "^6.12.1"
+  },  
+  "devDependencies": {
+    "typescript": "5.4.5"
+  }
+}
