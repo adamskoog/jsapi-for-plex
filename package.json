@@ -1,6 +1,6 @@
 {
   "name": "@adamskoog/jsapi-for-plex",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "API layer for Onyx Audiobook applications.",
   "engines": { "node": ">=20.13.0" },
   "main": "dist/index.js",
